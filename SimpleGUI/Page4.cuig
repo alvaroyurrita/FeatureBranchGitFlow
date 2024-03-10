@@ -1,0 +1,95 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.3001.21.0"
+Created = 2024-03-10 14:29:12.168885-04:00
+LastModifiedByAppHost = "1.3001.21.0"
+Modified = 2024-03-10 14:29:12.168878-04:00
+CreatedByProjectApp = "1.3001.21.0"
+LastModifiedByProjectApp = "1.3001.21.0"
+MinimumProjectApp = "1.2600.1"
+
+{Html}
+<ch5-dpad size="regular" shape="plus" type="default" customvstheme="custom" id="i1mu" componentName="Dpad" ccid_linkSendReceive="True" devicesVisited="[&quot;4K Monitor&quot;]" ccid_themeCSSSet="true">
+              <ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" iconclass="fas fa-circle" ccid_imageIconType="iconclass"></ch5-dpad-button></ch5-dpad>
+
+{Css}
+@media (orientation: landscape){#i1mu.ch5-dpad.ch5-dpad--type-default .ch5-dpad-child{dpadDefault_color:#ffffff;color:#ffffff;dpadDefault_background-color:#0099ff;background-color:#0099ff;}#i1mu.ch5-dpad.ch5-dpad--type-default .ch5-dpad-child.--pressed{dpadActiveDefault_color:#f0fff0;color:#f0fff0;dpadActiveDefault_background-color:#008ae6;background-color:#008ae6;}#i1mu.ch5-dpad .ch5-dpad-child.direction-btn span.dpad-btn-icon{z-index:1;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up:after{box-shadow:-10px 1px 0 0 #0099ff;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up:before{box-shadow:10px 1px 0 0 #0099ff;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down:after{box-shadow:10px -1px 0 0 #0099ff;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down:before{box-shadow:-10px -1px 0 0 #0099ff;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up[class*="--pressed"]:after{box-shadow:-10px 1px 0 0 #008ae6;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up[class*="--pressed"]:before{box-shadow:10px 1px 0 0 #008ae6;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down[class*="--pressed"]:after{box-shadow:10px -1px 0 0 #008ae6;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down[class*="--pressed"]:before{box-shadow:-10px -1px 0 0 #008ae6;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up:active:after{box-shadow:-10px 1px 0 0 #008ae6;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up:active:before{box-shadow:10px 1px 0 0 #008ae6;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down:active:after{box-shadow:10px -1px 0 0 #008ae6;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down:active:before{box-shadow:-10px -1px 0 0 #008ae6;}#i1mu.ch5-dpad.ch5-dpad--type-default ch5-dpad-button:active{background-color:#008ae6;}#i1mu.ch5-dpad.ch5-dpad--type-default ch5-dpad-button[class*="--pressed"]{background-color:#008ae6;}#i1mu.ch5-dpad.ch5-dpad--type-default ch5-dpad-button{background-color:#0099ff;}#i1mu.ch5-dpad.ch5-dpad--shape-plus ch5-dpad-button.direction-btn{flex:calc(100%/3);height:calc(100%/3);}#i1mu.ch5-dpad.ch5-dpad--shape-plus ch5-dpad-button.direction-btn.left{margin-right:0;padding-right:16.5%;z-index:1;}#i1mu.ch5-dpad.ch5-dpad--shape-plus ch5-dpad-button.direction-btn.right{margin-left:0;padding-left:16.5%;z-index:1;}#i1mu.ch5-dpad ch5-dpad-button.center{width:calc(100%/3);height:calc(100%/3);z-index:2;}#i1mu.ch5-dpad ch5-dpad-button.down{z-index:0;}#i1mu.ch5-dpad.ch5-dpad--size-regular .dpad-container{width:150px;}#i1mu.ch5-dpad.ch5-dpad--type-default ch5-dpad-button:active span{color:#f0fff0;}#i1mu{pointer-events:all;display:block;width:150px;dpadDefault_color:#ffffff;dpadActiveDefault_color:#f0fff0;min-width:100px;min-height:100px;height:150px;left:29px;top:1px;position:absolute;dpadDefault_background-color:#0099ff;dpadActiveDefault_background-color:#008ae6;}}@media (orientation: portrait){#i1mu.ch5-dpad.ch5-dpad--type-default .ch5-dpad-child{dpadDefault_color:#ffffff;color:#ffffff;dpadDefault_background-color:#0099ff;background-color:#0099ff;}#i1mu.ch5-dpad.ch5-dpad--type-default .ch5-dpad-child.--pressed{dpadActiveDefault_color:#f0fff0;color:#f0fff0;dpadActiveDefault_background-color:#008ae6;background-color:#008ae6;}#i1mu.ch5-dpad .ch5-dpad-child.direction-btn span.dpad-btn-icon{z-index:1;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up:after{box-shadow:-10px 1px 0 0 #0099ff;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up:before{box-shadow:10px 1px 0 0 #0099ff;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down:after{box-shadow:10px -1px 0 0 #0099ff;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down:before{box-shadow:-10px -1px 0 0 #0099ff;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up[class*="--pressed"]:after{box-shadow:-10px 1px 0 0 #008ae6;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up[class*="--pressed"]:before{box-shadow:10px 1px 0 0 #008ae6;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down[class*="--pressed"]:after{box-shadow:10px -1px 0 0 #008ae6;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down[class*="--pressed"]:before{box-shadow:-10px -1px 0 0 #008ae6;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up:active:after{box-shadow:-10px 1px 0 0 #008ae6;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up:active:before{box-shadow:10px 1px 0 0 #008ae6;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down:active:after{box-shadow:10px -1px 0 0 #008ae6;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down:active:before{box-shadow:-10px -1px 0 0 #008ae6;}#i1mu.ch5-dpad.ch5-dpad--type-default ch5-dpad-button:active{background-color:#008ae6;}#i1mu.ch5-dpad.ch5-dpad--type-default ch5-dpad-button[class*="--pressed"]{background-color:#008ae6;}#i1mu.ch5-dpad.ch5-dpad--type-default ch5-dpad-button{background-color:#0099ff;}#i1mu.ch5-dpad.ch5-dpad--shape-plus ch5-dpad-button.direction-btn{flex:calc(100%/3);height:calc(100%/3);}#i1mu.ch5-dpad.ch5-dpad--shape-plus ch5-dpad-button.direction-btn.left{margin-right:0;padding-right:16.5%;z-index:1;}#i1mu.ch5-dpad.ch5-dpad--shape-plus ch5-dpad-button.direction-btn.right{margin-left:0;padding-left:16.5%;z-index:1;}#i1mu.ch5-dpad ch5-dpad-button.center{width:calc(100%/3);height:calc(100%/3);z-index:2;}#i1mu.ch5-dpad ch5-dpad-button.down{z-index:0;}#i1mu.ch5-dpad.ch5-dpad--size-regular .dpad-container{width:150px;}#i1mu.ch5-dpad.ch5-dpad--type-default ch5-dpad-button:active span{color:#f0fff0;}#i1mu{pointer-events:all;display:block;width:150px;dpadDefault_color:#ffffff;dpadActiveDefault_color:#f0fff0;min-width:100px;min-height:100px;height:150px;left:29px;top:1px;position:absolute;dpadDefault_background-color:#0099ff;dpadActiveDefault_background-color:#008ae6;}}@media (orientation: landscape) and (max-width: 2561px){body{padding-top:0;border-radius:0 0 0 0;}#i1mu.ch5-dpad.ch5-dpad--type-default .ch5-dpad-child{dpadDefault_color:#ffffff;color:#ffffff;dpadDefault_background-color:#0099ff;background-color:#0099ff;}#i1mu.ch5-dpad.ch5-dpad--type-default .ch5-dpad-child.--pressed{dpadActiveDefault_color:#f0fff0;color:#f0fff0;dpadActiveDefault_background-color:#008ae6;background-color:#008ae6;}#i1mu .dpad-container{width:inherit !important;height:inherit !important;min-width:100px;min-height:100px;}#i1mu.ch5-dpad.ch5-dpad--size-regular .dpad-container{width:150px;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up:after{box-shadow:-10px 1px 0 0 #0099ff;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up:before{box-shadow:10px 1px 0 0 #0099ff;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down:after{box-shadow:10px -1px 0 0 #0099ff;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down:before{box-shadow:-10px -1px 0 0 #0099ff;}#i1mu.ch5-dpad.ch5-dpad--type-default ch5-dpad-button[class*="--pressed"]{background-color:#008ae6;}#i1mu.ch5-dpad.ch5-dpad--type-default ch5-dpad-button:active{background-color:#008ae6;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up[class*="--pressed"]:after{box-shadow:-10px 1px 0 0 #008ae6;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up[class*="--pressed"]:before{box-shadow:10px 1px 0 0 #008ae6;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down[class*="--pressed"]:after{box-shadow:10px -1px 0 0 #008ae6;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down[class*="--pressed"]:before{box-shadow:-10px -1px 0 0 #008ae6;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up:active:after{box-shadow:-10px 1px 0 0 #008ae6;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up:active:before{box-shadow:10px 1px 0 0 #008ae6;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down:active:after{box-shadow:10px -1px 0 0 #008ae6;}#i1mu.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down:active:before{box-shadow:-10px -1px 0 0 #008ae6;}#i1mu.ch5-dpad.ch5-dpad--type-default ch5-dpad-button:active span{color:#f0fff0;}#i1mu{pointer-events:all;display:block;width:150px;dpadDefault_color:#ffffff;dpadActiveDefault_color:#f0fff0;min-width:100px;min-height:100px;height:150px;left:29px;top:1px;position:absolute;dpadDefault_background-color:#0099ff;dpadActiveDefault_background-color:#008ae6;}}
+
+{PageAttributes}
+
+[Attributes]
+Name = "Page4"
+PageMode = "absolute"
+Id = "9c4f9b75-54b9-467e-822b-bbf852874d44"
+StartPage = "False"
+VisibilityJoin = "0"
+
+[[Elements]]
+Type = "Ch5 Dpad"
+Editable = true
+
+[[Elements.Components]]
+Type = "textnode"
+Content = "\n              "
+[[Elements.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Attributes]
+componentName = "Up"
+key = "up"
+iconclass = "fas fa-caret-up"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Attributes]
+componentName = "Down"
+key = "down"
+iconclass = "fas fa-caret-down"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Attributes]
+componentName = "Left"
+key = "left"
+iconclass = "fas fa-caret-left"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Attributes]
+componentName = "Right"
+key = "right"
+iconclass = "fas fa-caret-right"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Attributes]
+componentName = "Center"
+key = "center"
+iconclass = "fas fa-circle"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+
+[Elements.Attributes]
+size = "regular"
+shape = "plus"
+type = "default"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+customvstheme = "custom"
+id = "i1mu"
+componentName = "Dpad"
+disabled = "false"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"4K Monitor\"]"
+ccid_themeCSSSet = "true"
+
