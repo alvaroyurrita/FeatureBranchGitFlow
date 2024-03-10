@@ -1,0 +1,21 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.3001.21.0"
+Created = 2024-03-10 09:12:58.270049-04:00
+LastModifiedByAppHost = "1.3001.21.0"
+Modified = 2024-03-10 09:12:58.270033-04:00
+CreatedByProjectApp = "1.3001.21.0"
+LastModifiedByProjectApp = "1.3001.21.0"
+MinimumProjectApp = ""
+
+{AssetAttributes}
+
+[Attributes]
+Id = "bc64b26a-b022-4668-90f6-ce6359e5468a"
+Name = "Crestron-Logo-1"
+SourceUri = "Crestron-Logo-1.jpg"
+AspectRatio = "1.8521303258145363"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

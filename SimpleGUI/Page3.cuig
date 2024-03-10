@@ -1,0 +1,51 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.3001.21.0"
+Created = 2024-03-10 09:13:15.226839-04:00
+LastModifiedByAppHost = "1.3001.21.0"
+Modified = 2024-03-10 09:13:15.226829-04:00
+CreatedByProjectApp = "1.3001.21.0"
+LastModifiedByProjectApp = "1.3001.21.0"
+MinimumProjectApp = "1.2600.1"
+
+{Html}
+<ch5-template templateid="w7c1668d4-f442-47f3-9268-dd337cc091e0" id="iyam" componentname="Widget1" devicesvisited="[&quot;4K Monitor&quot;]"></ch5-template><ch5-image refreshrate="0" customvstheme="custom" assetid="bc64b26a-b022-4668-90f6-ce6359e5468a" id="i03u" componentname="Image" ccid_linksendreceive="True" devicesvisited="[&quot;4K Monitor&quot;]">
+              </ch5-image>
+
+{Css}
+@media (orientation: landscape){#iyam{display:block;left:0px;top:0px;position:absolute;width:auto;height:auto;}#i03u .ch5-image{border-color:black;object-fit:contain;}#i03u{width:200px;height:200px;pointer-events:all;left:448px;top:92px;position:absolute;display:block;}}@media (orientation: portrait){#iyam{display:block;left:0px;top:0px;position:absolute;width:auto;height:auto;}#i03u .ch5-image{border-color:black;object-fit:contain;}#i03u{width:200px;height:200px;pointer-events:all;left:448px;top:92px;position:absolute;display:block;}}@media (orientation: landscape) and (max-width: 2561px){body{padding-top:0;border-radius:0 0 0 0;}#iyam{display:block;left:0px;top:0px;position:absolute;width:auto;height:auto;}#i03u .ch5-image{border-color:black;object-fit:contain;}#i03u{width:200px;height:200px;pointer-events:all;left:448px;top:92px;position:absolute;display:block;}}
+
+{PageAttributes}
+
+[Attributes]
+Name = "Page3"
+PageMode = "absolute"
+Id = "5bcdf483-5ed0-48df-a94a-f6564eb0e18e"
+StartPage = "False"
+VisibilityJoin = "0"
+
+[[Elements]]
+Type = "Ch5 Template"
+
+[Elements.Attributes]
+templateid = "w7c1668d4-f442-47f3-9268-dd337cc091e0"
+id = "iyam"
+componentName = "Widget1"
+devicesVisited = "[\"4K Monitor\"]"
+[[Elements]]
+Type = "Ch5 Image"
+Editable = true
+
+[[Elements.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Attributes]
+refreshrate = "0"
+customvstheme = "custom"
+assetid = "bc64b26a-b022-4668-90f6-ce6359e5468a"
+id = "i03u"
+componentName = "Image"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"4K Monitor\"]"
+
