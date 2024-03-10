@@ -4,11 +4,16 @@
     "_createdByAppHost": "1.3001.21.0",
     "_created": "2024-03-10T08:58:48.8637152-04:00",
     "_lastModifiedByAppHost": "1.3001.21.0",
-    "_modified": "2024-03-10T08:58:48.8636729-04:00"
+    "_modified": "2024-03-10T14:06:58.4508301-04:00"
   },
   "_solution": {
     "_name": "FeatureBranchGitFlow",
     "_projects": [
+      {
+        "_name": "AdvancedGUI",
+        "_filename": "AdvancedGUI/AdvancedGUI.cuip",
+        "_datetime": "2024-03-10T18:06:58.384804Z"
+      },
       {
         "_name": "SimpleGUI",
         "_filename": "SimpleGUI/SimpleGUI.cuip",
