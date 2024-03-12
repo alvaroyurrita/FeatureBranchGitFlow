@@ -1,6 +1,7 @@
 Added A Page 1 with:
 * Button 1
 * Button 2
+* Button 3
 
 Added a page 2 with
 * Slider
